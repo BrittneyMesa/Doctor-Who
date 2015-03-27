@@ -9,6 +9,7 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateParam name="The Doctors Menu" type="boolean" value="false" -->
 <!-- TemplateParam name="The Companions" type="boolean" value="false" -->
+<!-- TemplateParam name="The Villains" type="boolean" value="false" -->
 </head>
 
 <body>
@@ -56,6 +57,19 @@
           <li><a href="../the-companions/Polly Wright.html">Polly Wright</a></li>
           <li><a href="../the-companions/Ben Jackson.html">Ben Jackson</a></li>
         <!-- TemplateEndIf -->
+      </ul>
+      <!-- TemplateBeginIf cond="_document['The Villains']" --><!-- TemplateEndIf -->
+      <ul>
+        <li>Helen A</li>
+        <li>Abzorbaloff</li>
+        <li>Father Angelo</li>
+        <li>Animus</li>
+        <li>Azal</li>
+        <li>Baltazar</li>
+        <li>Beast</li>
+        <li>Bok</li>
+        <li>Borusa</li>
+        <li>BOSS </li>
       </ul></td>
     <td><!-- TemplateBeginEditable name="Content" -->(content)<!-- TemplateEndEditable --></td>
   </tr>
