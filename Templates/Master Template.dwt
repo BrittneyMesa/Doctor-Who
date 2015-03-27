@@ -58,19 +58,20 @@
           <li><a href="../the-companions/Ben Jackson.html">Ben Jackson</a></li>
         <!-- TemplateEndIf -->
       </ul>
-      <!-- TemplateBeginIf cond="_document['The Villains']" --><!-- TemplateEndIf -->
+      <!-- TemplateBeginIf cond="_document['The Villains']" -->
       <ul>
-        <li>Helen A</li>
-        <li>Abzorbaloff</li>
-        <li>Father Angelo</li>
-        <li>Animus</li>
-        <li>Azal</li>
-        <li>Baltazar</li>
-        <li>Beast</li>
-        <li>Bok</li>
-        <li>Borusa</li>
-        <li>BOSS </li>
-      </ul></td>
+        <li><a href="../the-villains/helen-a.html">Helen A</a></li>
+        <li><a href="../the-villains/abzorbaloff.html">Abzorbaloff</a></li>
+        <li><a href="../the-villains/father-angelo.html">Father Angelo</a></li>
+        <li><a href="../the-villains/animus.html">Animus</a></li>
+        <li><a href="../the-villains/azal.html">Azal</a></li>
+        <li><a href="../the-villains/baltazar.html">Baltazar</a></li>
+        <li><a href="../the-villains/beast.html">Beast</a></li>
+        <li><a href="../the-villains/bok.html">Bok</a></li>
+        <li><a href="../the-villains/borusa.html">Borusa</a></li>
+        <li><a href="../the-villains/BOSS.html">BOSS </a></li>
+      </ul>
+      <!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Content" -->(content)<!-- TemplateEndEditable --></td>
   </tr>
 </table>
