@@ -11,3 +11,15 @@ img {
 	margin-bottom: 25px;
 	margin-left: 0px;
 }
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	line-height: 2.5em;
+	color: #333;
+}
+.content {
+	background-color: #FC9;
+}
+.nav {
+	background-color: #FF9;
+}
